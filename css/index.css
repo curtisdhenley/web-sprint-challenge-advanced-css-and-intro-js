@@ -13,8 +13,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,  
 time, mark, audio, video {  
 margin: 0;  
-padding: 0;  
-border: 0;  
+padding: 0; 
 font-size: 100%;  
 font: inherit;  
 vertical-align: baseline;  
@@ -159,5 +158,8 @@ button:hover{
     /* Artist section styling */
     .artists-container {
         flex-direction: column;
+    }
+    .artist {
+        width: 100%;
     }
 }
