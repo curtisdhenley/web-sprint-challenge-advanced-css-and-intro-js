@@ -23,7 +23,13 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Accessibility is important on a website as it allows those with disabilities to use things like screen readers and for those that need to adjust the size of the page in order for them to be able to read it better. It's also possible to face a lawsuit if accessibility is not provided.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+
+Use semantic tags in HTML so screen readers can distinguish the items on the page and read them to the user.
+
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 5. How do you access a key inside of an object inside of an array?
