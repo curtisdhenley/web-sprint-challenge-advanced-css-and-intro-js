@@ -28,11 +28,19 @@ Accessibility is important on a website as it allows those with disabilities to 
 
 2. Talk about 3 different things you can do to ensure your website is accessible.
 
-Use semantic tags in HTML so screen readers can distinguish the items on the page and read them to the user.
+Use semantic tags in HTML so screen readers can distinguish the items on the page and read them to the user. Also make sure to use alt tags whenever possible for screen reader users and in case the browser doesn't load the image that way a description of the image will be displayed. 
 
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable is an item with a defined value that you give a command to perform a specific action based on it's value.
+
 4. What is the purpose of using functions in code?
+
+Functions allow developers to repeat entire sections of code just by using a single line of code to invoke the function. It allows you to keep your code DRY and easier to read. It lowers the chances of the code breaking by only having to write it once therefore making it easier to keep track of the function origin if changes need to be made.
+
 5. How do you access a key inside of an object inside of an array?
+
+You would need to console.log(array[index].key). In that line you locate the key by it's index in the object that is in the array.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
