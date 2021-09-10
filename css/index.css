@@ -81,6 +81,9 @@ nav span{
     border-left:3px solid #626262;
 
 }
+a.home {
+    font-weight: bold;
+}
 /*Title Section Styles*/
 .title-container{
     display:flex;
@@ -133,4 +136,14 @@ button:hover{
 }
 .artist img{
     width:100%;
+}
+
+/* Media Queries */
+@media(max-width: 500px) {
+    nav {
+        width: 40%;
+    }
+    a {
+        font-size: 1.5rem;
+    }
 }
